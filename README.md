@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vprofile-project
-=======
 # Prerequisites
 #
 - JDK 11 
@@ -26,4 +23,3 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
->>>>>>> 3286bae (test ssh keys 43)
